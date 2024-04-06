@@ -38,11 +38,11 @@
   .item:nth-child(1),
   .item:nth-child(2),
   .item:nth-child(3) {
-    flex-basis:calc((100% - 60px)/3) ;
+    flex-basis:calc((100% - 45px)/3) ;
   }
   .item:nth-child(4),
   .item:nth-child(5){
-    flex-basis:calc((100% - 40px)/2) ;
+    flex-basis:calc((100% - 30px)/2) ;
   }
   .item {
    
