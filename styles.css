@@ -44,12 +44,7 @@
   .item:nth-child(5) {
     flex-basis:50% ;
   }
-  .item:nth-child(2),
-  .item:nth-child(3),
-  .item:nth-child(4) {
-    flex-basis:25% ;
-  }
-  
+
   .item {
    
       width: 30%;
